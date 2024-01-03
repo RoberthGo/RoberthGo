@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋, Welcome!
 
+ I’m currently learning about FULL-STACK and Machine Learning.
 <!--
 **RoberthGo/RoberthGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
