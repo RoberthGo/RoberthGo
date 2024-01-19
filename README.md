@@ -1,7 +1,6 @@
 # Hi there 👋, Welcome!
 
- I’m currently learning about FULL-STACK and Machine Learning.
-
+My name is Roberto Gordillo Herrera. I'm currently learning about FULL-STACK and Machine Learning.
 
 ## Let´s Connect
 
