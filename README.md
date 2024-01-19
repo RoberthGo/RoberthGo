@@ -1,11 +1,11 @@
-### Hi there 👋, Welcome!
+# Hi there 👋, Welcome!
 
  I’m currently learning about FULL-STACK and Machine Learning.
 
 
-# Let´s Connect
+## Let´s Connect
 
-[Linkedin](www.linkedin.com/in/roberth-g){:target="_blank"}
+[Linkedin](www.linkedin.com/in/roberth-g)
  
 <!--
 **RoberthGo/RoberthGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
