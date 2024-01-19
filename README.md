@@ -5,7 +5,7 @@
 
 ## Let´s Connect
 
-[Linkedin](www.linkedin.com/in/roberth-g)
+[Linkedin](www.linkedin.com/in/roberth-g](https://www.linkedin.com/in/roberth-g/)
  
 <!--
 **RoberthGo/RoberthGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
